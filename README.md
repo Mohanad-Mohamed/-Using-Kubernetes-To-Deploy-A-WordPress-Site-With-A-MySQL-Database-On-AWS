@@ -1,6 +1,6 @@
 # Project Architecture
 
-![Architecture](https://github.com/user-attachments/assets/b4b0a266-ed8c-4c3e-9d88-e60f71c8ecf2)
+![Architecture](https://github.com/user-attachments/assets/72322f5d-ac51-45dd-93b2-896f0fc698ba)
 
 # WordPress with MySQL on Kubernetes
 
