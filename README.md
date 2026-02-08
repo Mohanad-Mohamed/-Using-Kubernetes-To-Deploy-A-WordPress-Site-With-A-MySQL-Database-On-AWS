@@ -1,3 +1,7 @@
+# Project Architecture
+
+![Architecture](https://github.com/user-attachments/assets/b4b0a266-ed8c-4c3e-9d88-e60f71c8ecf2)
+
 # WordPress with MySQL on Kubernetes
 
 This repository contains Kubernetes configurations for deploying WordPress with MySQL database on AWS.
